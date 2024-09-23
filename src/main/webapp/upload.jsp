@@ -11,7 +11,7 @@
 	<div>Profile</div>
 	<form method="post" action="/UpLoadFile/multiPartServlet"
 		enctype="multipart/form-data">
-		Upload image: <input type="file" name="multiPartServlet" /> 
+		Upload image: <input type="file" name="image" /> 
 		<br>
 		<br />
 		 Name:
